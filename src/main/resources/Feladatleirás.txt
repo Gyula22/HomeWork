@@ -1,0 +1,21 @@
+Feladatok leirása:
+Külön használtam DTO kat es Modelleket az alkalmazás tesztelése érdekében. 
+Két Repositoryt készitettem külön a poster és külön a Client-nek. 
+Egy appcontrollerben megoldottam az összes endpoint-ot és a keresést is. 
+Mivel értelmezésem szerint ez a program RestControlleres, igy nem csináltam frontend (Thymeleaf, HTML ) részt a programhoz.
+
+A kódban is van pár komment.
+
+
+Továbbfejlesztési ötletek:
+
+Frontend részt késziteni, HTML vagy Javascriptet használni. 
+Munkakör leirása fieldet, hogy a poster tudjon leirni tobbet a munkakörről.
+Munka kategóriákat letrehozni.
+Felhasználó regisztáció, hogy a felhasználó tudjon állásajánlatokat menteni, esetleg feliratkozni hirlevélre. 
+Poster regisztráció, hogy csak munkaadó tudjon feltölteni állásajánlatot. 
+Regiszrációhoz email validációt kötni.
+Spring security-t használni a szofter biztonsága érdekében. 
+Én MYSQL adatbázist használnék.
+
+Köszönöm.
